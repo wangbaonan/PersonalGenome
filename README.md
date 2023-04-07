@@ -10,7 +10,8 @@
 -   MybatisPlus
 -   Maven
 -   MySQL
--   C++ Gamma v1
+-   C++ 11
+-   
 
 
 
