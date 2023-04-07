@@ -11,7 +11,7 @@
 -   Maven
 -   MySQL
 -   C++ 11
--   
+-   JWT
 
 
 
